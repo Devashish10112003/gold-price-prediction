@@ -1,0 +1,15 @@
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.streamlit/
+
+.ipynb_checkpoints/
+
+.env
+.DS_Store
+
+random_forest_model.pkl
